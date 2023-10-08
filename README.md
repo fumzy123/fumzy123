@@ -1,4 +1,5 @@
-### Hi there 👋
+# 😎 Fume Uvwie
+**`Creative Developer (Code / Design / Animation)`**
 
 <!--
 **fumzy123/fumzy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
