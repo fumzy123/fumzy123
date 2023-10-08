@@ -19,15 +19,19 @@ I’m a creative developer who enjoys using code to visualize things. My goal is
 #
 
 ### 📦 Packages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="30px" style="background-color: white;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="30px" style="background-color: grey;"/>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="30px" style="background-color: white;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="30px" style="background-color: grey;"/>
+</p>
 
 #
 
 ### ⚒️ Dev tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30px" />
-
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30px"/>
+    <img src="./assets/vite-svgrepo-com.svg" alt="vite" width="30px">
+    <img src="./assets/github-inverted-svg.svg" alt="github" width="30px">
+</p>
 
 #
 
