@@ -1,7 +1,11 @@
 # 😎 Fume Uvwie
 **`Creative Developer (Code / Design / Animation)`**
 
-I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize things. My goal is to build immersive and interactive experiences through a combination of code, design, and animation.
+I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize ideas. I love learning, and experimenting with new frameworks and technoglogies. I'm currently on a journey to build immersive and interactive experiences through a combination of code, design, and animation.
+
+### Find me around the web 🕸️:
+- Documenting my learning Journey in public on <a href="">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
+- Sharing updates and Interacting on <a href="https://www.linkedin.com/in/fumeuvwie/">LinkedIn</a>
 
 ---
 ### ⚙️ Language and Technologies
@@ -37,8 +41,13 @@ I’m a creative developer who enjoys using code to solve problems, build soluti
 
 ### 🎨 Design tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px" />
-          
 
+
+
+### GitHub Stats
+[![Fume's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumzy123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumzy123&theme=dark)](https://github.com/fumzy123/github-readme-stats)
 
 <!--
 **fumzy123/fumzy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
