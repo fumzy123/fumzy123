@@ -20,8 +20,8 @@ I’m a creative developer who enjoys using code to visualize things. My goal is
 
 ### 📦 Packages
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="30px" style="background-color: white;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="30px" style="background-color: grey;"/>
+    <img src="./assets/threejs.svg" alt="threejs" width="40px" style="padding-right:10px;">
+    <img src="./assets/pandas.svg" alt="pandas" width="40px" style="padding-right:10px;">
 </p>
 
 #
