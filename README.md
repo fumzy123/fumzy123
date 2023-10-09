@@ -1,7 +1,7 @@
 # 😎 Fume Uvwie
 **`Creative Developer (Code / Design / Animation)`**
 
-I’m a creative developer who enjoys using code to visualize things. My goal is to build immersive and interactive experiences through a combination of code, design, and animation.
+I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize things. My goal is to build immersive and interactive experiences through a combination of code, design, and animation.
 
 ---
 ### ⚙️ Language and Technologies
@@ -20,13 +20,13 @@ I’m a creative developer who enjoys using code to visualize things. My goal is
 
 ### 📦 Packages
 <p>
-    <img src="./assets/threejs.svg" alt="threejs" width="40px" style="padding-right:10px;">
-    <img src="./assets/pandas.svg" alt="pandas" width="40px" style="padding-right:10px;">
+    <img src="./assets/threejs.svg" alt="threejs" width="38px" style="padding-right:10px;">
+    <img src="./assets/pandas.svg" alt="pandas" width="38px" style="padding-right:10px;">
 </p>
 
 #
 
-### ⚒️ Dev tools
+### 🔨 Dev tools
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30px"/>
     <img src="./assets/vite-svgrepo-com.svg" alt="vite" width="30px">
