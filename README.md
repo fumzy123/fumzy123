@@ -1,10 +1,10 @@
 # 😎 Fume Uvwie
 **`Creative Developer (Code / Design / Animation)`**
 
-I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize ideas. I love learning, and experimenting with new frameworks and technoglogies. I'm currently on a journey to build immersive and interactive experiences through a combination of code, design, and animation.
+I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize ideas. I love learning, and experimenting with new frameworks and technoglogies like React. I'm currently on a journey to build applications that solve problems and offer interactive experiences through a combination of code, design, and animation.
 
 ### Find me around the web 🕸️:
-- Documenting my learning Journey in public on <a href="">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
+- Documenting my learning Journey in public on <a href="https://youtube.com/@FumeCreates?si=-IRU-1vCYXoSPjtD">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
 - Sharing updates and Interacting on <a href="https://www.linkedin.com/in/fumeuvwie/">LinkedIn</a>
 
 ---
@@ -42,7 +42,7 @@ I’m a creative developer who enjoys using code to solve problems, build soluti
 ### 🎨 Design tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px" />
 
-
+---
 
 ### GitHub Stats
 [![Fume's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumzy123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
