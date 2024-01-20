@@ -12,7 +12,7 @@
  </p>
 
 <div align="center">
-    <img src="assets/github-gif-30fps.gif" alt="animated-text-in-front-of-computer" style="display: block; margin-inline: auto; width: 500px;" />
+    <img src="assets/github-gif-30fps.gif" alt="animated-text-in-front-of-computer" style="display: block; margin-inline: auto; width: 800px;" />
 </div>
 
 <br/>
