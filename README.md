@@ -19,7 +19,7 @@
 
 ---
 
-### Things I like to work on
+### Things I like to work on in my free-time
 
 1. Front-End Website Development
    - Blogs
@@ -37,6 +37,8 @@
 
 - Documenting my learning Journey in public on <a href="https://youtube.com/@FumeCreates?si=-IRU-1vCYXoSPjtD">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
 - Sharing updates and Interacting on <a href="https://www.linkedin.com/in/fumeuvwie/">LinkedIn</a>
+
+<br/>
 
 ---
 
@@ -77,6 +79,8 @@
 ### 🎨 Design tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px" />
+
+<br/>
 
 ---
 
