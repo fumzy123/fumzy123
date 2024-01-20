@@ -80,22 +80,6 @@
 
 ---
 
-### Things I like to work on
-
-1. Front-End Website Development
-   - Blogs
-   - Portfolio
-   - E-Commerce
-   - 3D Website
-2. Game Development
-   - ThreeJS Games
-   - Unity Games
-3. Content Creation
-   - Motion Graphics
-   - Video Editing
-
----
-
 ### GitHub Stats
 
 [![Fume's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumzy123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
