@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello there </h1>
 
-<img alt="animated-text-in-front-of-computer" src="assets/github-gif-30fps.gif" width="500" align="center" />
+<img src="assets/github-gif-30fps.gif" alt="animated-text-in-front-of-computer" style="display: block; margin-inline: auto; width: 500px;" />
 
 <p align="center">
     Welcome to my Github repo. My name is Fume Uvwie, 
