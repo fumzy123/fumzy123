@@ -1,14 +1,45 @@
-# 😎 Fume Uvwie
-**`Creative Developer (Code / Design / Animation)`**
+<h1 align="center"> 👋 Hello there </h1>
 
-I’m a creative developer who enjoys using code to solve problems, build solutions, and visualize ideas. I love learning, and experimenting with new frameworks and technoglogies like React. I'm currently on a journey to build applications that solve problems and offer interactive experiences through a combination of code, design, and animation.
+<img alt="animated-text-in-front-of-computer" src="assets/github-gif-30fps.gif" width="1080" align="center" />
+
+<br/>
+
+ <p align="center">
+    Welcome to my Github repo. My name is Fume Uvwie, 
+    I'm <strong>Web/Game Developer</strong> and <strong>Motion Designer</strong>. 
+    I'm currently on a mission to build visually engaging, interactive, and immersive digital
+    experiences on the web through the combination of <em>Code</em>,
+    <em>Design</em>, and <em>Animation</em>. I love learning, consistently iterating,
+    and experimenting with new technologies. You can check out
+    some of my projects and let me know if you like to work
+    together.
+ </p>
+
+---
+
+### Things I like to work on
+
+1. Front-End Website Development
+   - Blogs
+   - Portfolio
+   - E-Commerce
+   - 3D Website
+2. Game Development
+   - ThreeJS Games
+   - Unity Games
+3. Content Creation
+   - Motion Graphics
+   - Video Editing
 
 ### Find me around the web 🕸️:
+
 - Documenting my learning Journey in public on <a href="https://youtube.com/@FumeCreates?si=-IRU-1vCYXoSPjtD">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
 - Sharing updates and Interacting on <a href="https://www.linkedin.com/in/fumeuvwie/">LinkedIn</a>
 
 ---
+
 ### ⚙️ Language and Technologies
+
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30px"/>
@@ -23,6 +54,7 @@ I’m a creative developer who enjoys using code to solve problems, build soluti
 #
 
 ### 📦 Packages
+
 <p>
     <img src="./assets/threejs.svg" alt="threejs" width="38px" style="padding-right:10px;">
     <img src="./assets/pandas.svg" alt="pandas" width="38px" style="padding-right:10px;">
@@ -31,6 +63,7 @@ I’m a creative developer who enjoys using code to solve problems, build soluti
 #
 
 ### 🔨 Dev tools
+
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30px"/>
     <img src="./assets/vite-svgrepo-com.svg" alt="vite" width="30px">
@@ -40,11 +73,29 @@ I’m a creative developer who enjoys using code to solve problems, build soluti
 #
 
 ### 🎨 Design tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30px" />
 
 ---
 
+### Things I like to work on
+
+1. Front-End Website Development
+   - Blogs
+   - Portfolio
+   - E-Commerce
+   - 3D Website
+2. Game Development
+   - ThreeJS Games
+   - Unity Games
+3. Content Creation
+   - Motion Graphics
+   - Video Editing
+
+---
+
 ### GitHub Stats
+
 [![Fume's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumzy123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumzy123&theme=dark)](https://github.com/fumzy123/github-readme-stats)
