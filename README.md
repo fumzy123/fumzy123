@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Hello there </h1>
 
-<img src="assets/github-gif-30fps.gif" alt="animated-text-in-front-of-computer" style="display: block; margin-inline: auto; width: 500px;" />
-
 <p align="center">
     Welcome to my Github repo. My name is Fume Uvwie, 
     I'm <strong>Web/Game Developer</strong> and <strong>Motion Designer</strong>. 
@@ -12,6 +10,8 @@
     some of my projects and let me know if you like to work
     together.
  </p>
+
+<img src="assets/github-gif-30fps.gif" alt="animated-text-in-front-of-computer" style="display: block; margin-inline: auto; width: 500px;" />
 
 <br/>
 
