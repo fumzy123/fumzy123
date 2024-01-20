@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello there </h1>
 
-<img alt="animated-text-in-front-of-computer" src="assets/github-gif-30fps.gif" width="1080" align="center" />
+<img alt="animated-text-in-front-of-computer" src="assets/github-gif-30fps.gif" width="900" align="center" />
 
 <br/>
 
