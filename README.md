@@ -36,7 +36,6 @@
 ### Find me around the web 🕸️:
 
 - Documenting my learning Journey in public on <a href="https://youtube.com/@FumeCreates?si=-IRU-1vCYXoSPjtD">📽️YouTube</a> or <a href="https://dev.to/fumez">✍🏿fumez.dev</a>
-- Sharing updates and Interacting on <a href="https://www.linkedin.com/in/fumeuvwie/">LinkedIn</a>
 
 <br/>
 
