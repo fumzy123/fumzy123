@@ -25,7 +25,7 @@
    - Portfolio
    - E-Commerce
    - 3D Website
-2. Game Development
+2. 3d Development
    - ThreeJS Games
    - Unity Games
 3. Content Creation
