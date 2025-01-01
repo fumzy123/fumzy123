@@ -2,8 +2,7 @@
 
 <p align="center">
     Welcome to my Github repo. My name is Fume Uvwie, 
-    I'm <strong>Web/Game Developer</strong> and <strong>Motion Designer</strong>. 
-    I'm currently on a mission to build visually engaging, interactive, and immersive digital
+    I'm <strong> Software Developer</strong> on a mission to build visually engaging, interactive, and immersive digital
     experiences on the web through the combination of <em>Code</em>,
     <em>Design</em>, and <em>Animation</em>. I love learning, consistently iterating,
     and experimenting with new technologies. You can check out
