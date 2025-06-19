@@ -28,9 +28,6 @@
 2. 3D Development
    - ThreeJS
    - Unity
-3. Content Creation
-   - Motion Graphics
-   - Video Editing
 
 <br/>
 
